@@ -1,1 +1,2 @@
 dkssudgktpdy
+git remote add origin https://github.com/gksdnfgksdnf/ggm_git3.git
